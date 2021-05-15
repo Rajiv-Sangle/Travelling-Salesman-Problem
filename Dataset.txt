@@ -1,1 +1,3 @@
+ATT48 is a TSP dataset on a set of 48 US cities. The intercity distances are available at the following link:
+
 https://people.sc.fsu.edu/~jburkardt/datasets/tsp/att48_d.txt
