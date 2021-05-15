@@ -1,3 +1,3 @@
 # Travelling-Salesman-Problem
 
-Solving the Travelling Salesman Problem using Schoschastic Gradient Descent
+Solving the Travelling Salesman Problem using Stochastic Gradient Descent
